@@ -29,7 +29,7 @@ function App() {
         <div>
           <h4>Időpont:</h4>
           <p>2023.szeptember 10. (vasárnap) 14:00</p>
-          <h4>Az istentistelet helye:</h4>
+          <h4>Az istentisztelet helye:</h4>
           <p>Zalaegerszeg, Závodszky István utca 1.</p>
           <p>(A volt nyomda irodáinak épülete.)</p>
         </div>
