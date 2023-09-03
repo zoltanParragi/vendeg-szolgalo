@@ -10,18 +10,18 @@ function App() {
     <nav>Meghívó</nav>
     <header>
       <h3>Kedves Testvérek, Barátok, Ismerősök!</h3>
-      <h2>Szeretettel meghívunk benneteket erre a Zalaegerszegi Keresztény Gyülekezet szervezésében megrendezésre kerülő eseményre</h2>
+      <h2>Szeretettel meghívunk benneteket az Egerszegi Keresztény Gyülekezet szervezésében megrendezésre kerülő istentiszteletre</h2>
     </header>
     <main>
       <section>
         <div>
-          <h3>Istentisztelet vendég szolgálóval</h3>
-          <h5>igehirdető</h5>
+          <h3>Vendég szolgáló</h3>
+          {/* <h5>igehirdető</h5> */}
           <h1>Piszter Ervin</h1>
           <h6>Budapesti Autonóm Gyülekezet</h6>
         </div>
         <div>
-          <img src="https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/359723062_631191639114481_7049483367813628629_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=gMnTTtH6cnAAX9AAJlb&_nc_ht=scontent-vie1-1.xx&oh=00_AfBqI4-GURpZPERf36Aky4VDm2IuDEGi3XLrA-B4IbWG2A&oe=64F7FE0F" width="300" alt="Piszter Ervin" />
+          <img src="/public/piszter_ervin3.jpg" width="400" alt="Piszter Ervin" />
         </div>
       </section>
 
