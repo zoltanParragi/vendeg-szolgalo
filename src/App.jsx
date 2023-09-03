@@ -21,7 +21,7 @@ function App() {
           <h6>Budapesti Autonóm Gyülekezet</h6>
         </div>
         <div>
-          <img src="/public/piszter_ervin3.jpg" width="400" alt="Piszter Ervin" />
+          <img src="piszter_ervin3.jpg" width="400" alt="Piszter Ervin" />
         </div>
       </section>
 
