@@ -15,7 +15,7 @@ function App() {
     <main>
       <section>
         <div>
-          <h3>Vendég szolgáló</h3>
+          <h3>Vendégszolgáló</h3>
           {/* <h5>igehirdető</h5> */}
           <h1>Piszter Ervin</h1>
           <h6>Budapesti Autonóm Gyülekezet</h6>
